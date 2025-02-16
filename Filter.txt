@@ -1,0 +1,15 @@
+!
+! Title: AdGuard Custom Blocklist
+! Description: Open-source ad blocker for Android using the hosts file
+! Homepage: https://github.com/VonderHeidFab/ADguardBlocklist/
+!
+! Compiled by @adguard/hostlist-compiler v1.0.23
+!
+!
+! Source name: AdGuard Custom Blocklist
+!
+
+# [163.com]
+127.0.0.1 analytics.163.com
+127.0.0.1 crash.163.com
+127.0.0.1 iad.g.163.com
